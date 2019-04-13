@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'well thy words become thee , as thy wounds , They smack of Honor both : Goe get him Surgeons',
+      'trusted home , Might yet enkindle you vnto the Crowne , Besides the Thane of Cawdor',
   'example2':
       "saies , ' tis but our Fantasie , And will not let beleefe take hold of him Touching this dreaded sight , twice seene of vs , Therefore I haue intreated him along With vs , to watch the minutes of this Night , That if againe this Apparition come , He may approue our eyes , and speake to",
   'example3':
