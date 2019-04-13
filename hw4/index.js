@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'calls anon : faire is foule , and foule is faire , Houer through the fogge and filthie ayre',
+      'well thy words become thee , as thy wounds , They smack of Honor both : Goe get him Surgeons',
   'example2':
       "saies , ' tis but our Fantasie , And will not let beleefe take hold of him Touching this dreaded sight , twice seene of vs , Therefore I haue intreated him along With vs , to watch the minutes of this Night , That if againe this Apparition come , He may approue our eyes , and speake to",
   'example3':
