@@ -12,7 +12,7 @@ const examples = {
   'example2':
       "saies , ' tis but our Fantasie , And will not let beleefe take hold of him Touching this dreaded sight , twice seene of vs , Therefore I haue intreated him along With vs , to watch the minutes of this Night , That if againe this Apparition come , He may approue our eyes , and speake to",
   'example3':
-      ', the large and populous village , almost amounting to a town , to which Hartfield , in spite of its separate lawn , and shrubberies , and name , did really belong , afforded her no equals'
+      ', the large and populous village , almost amounting to a town , to which Hartfield , in spite of its separate lawn , and shrubberies , and name , did really belong , afforded her no equals',
   'example4':
       ': 22 And God blessed them , saying , Be fruitful , and multiply , and fill the waters in the seas , and let fowl multiply in the earth'
 };
