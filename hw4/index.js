@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'trusted home , Might yet enkindle you vnto the Crowne , Besides the Thane of Cawdor',
   'example2':
-      "saies , ' tis but our Fantasie , And will not let beleefe take hold of him Touching this dreaded sight , twice seene of vs , Therefore I haue intreated him along With vs , to watch the minutes of this Night , That if againe this Apparition come , He may approue our eyes , and speake to",
+      "night of all , When yond same Starre that ' s Westward from the Pole Had made his course t ' illume that part of Heauen Where now it burnes , Marcellus and my selfe , The Bell then beating",
   'example3':
       'had many acquaintance in the place , for her father was universally civil , but not one among them who could be accepted in lieu of Miss Taylor for even half a day',
   'example4':
